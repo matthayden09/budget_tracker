@@ -1,4 +1,5 @@
-// 26-Stu-Mini-Project
+// Includes code from week 17 26-Stu-Mini-Project
+
 let db;
 // create a new db request for a "budget" database.
 const request = indexedDB.open("budget", 1);
